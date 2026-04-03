@@ -2,7 +2,7 @@
 Summary:	Agility.js JavaScript MVC library
 Name:		jquery-%{plugin}
 Version:	0.1.3
-Release:	1
+Release:	2
 License:	MIT
 Group:		Applications/WWW
 Source0:	https://github.com/arturadib/agility/tarball/%{version}/%{plugin}-%{version}.tgz
